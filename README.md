@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthi</h1>
-<h3 align="center">Passionate about cybersecurity, a full-stack developer. Painting(Artworks) drives me to continuously innovate and contribute, believing that every effort, no matter how small, can make a meaningful difference and forge connections with who share my vision of leveraging technology and creativity for positive change.</h3>
+<h3 align="center">Enthusiastic cybersecurity professional with a dual passion for web development. Harnessing design expertise and proficiency in programming languages, web development frameworks, and cutting-edge technologies to bolster cybersecurity defenses.  Actively seeking a career opportunity to collaborate with a team and make a significant impact on the security landscape.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutty023" alt="kutty023" /></a> </p>
 
