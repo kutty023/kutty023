@@ -8,7 +8,7 @@
 🔭 I’m currently working on ArtWorkBlog<br>👯 I’m looking to collaborate on open source projects w.r.t cybersecurity<br>🤝 I’m looking for help with in-depth study of cyber security<br>🌱 I’m currently learning Full stack<br>💬 Ask me about cybersecurity, react, python, c++<br>📫 How to reach me arthiaaru23@gmail.com
 
 ## 📄 Resume 
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](link-to-your-resume.pdf)
+[![Resume]()]
 
 ## 👀 Portfolio
 [![Portfolio]()
