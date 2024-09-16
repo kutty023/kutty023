@@ -26,8 +26,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-## 💻 Tech Stack:
- ![English](https://img.shields.io/badge/english-%2523FF9900)![Tamil](https://img.shields.io/badge/tamil-%2523FF9900)![Kannada](https://img.shields.io/badge/kannada-%2523FF9900)![Teliugu](https://img.shields.io/badge/telugu-%2523FF9900)![Hindi](https://img.shields.io/badge/hindi-%2523FF9900)
+## 🗣️Languages:
+### English, Tamil, Kannada, Telugu, Hindi
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kutty023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=kutty023&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutty023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
