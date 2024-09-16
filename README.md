@@ -7,10 +7,9 @@
 
 🔭 I’m currently working on Novelist<br>👯 I’m looking to collaborate on open source projects w.r.t cybersecurity<br>🤝 I’m looking for help with in-depth study of cyber security<br>🌱 I’m currently learning Full stack<br>💬 Ask me about cybersecurity, react, python, c++<br>📫 How to reach me arthiOWR2024@gmail.com
 
-## ([📄Resume](https://drive.google.com/file/d/1SNMLokWmm8MpXeU39AJL86mqya3O-LbJ/view))
+## [📄 Resume](https://drive.google.com/file/d/1SNMLokWmm8MpXeU39AJL86mqya3O-LbJ/view)
 
-## 👀 Portfolio
-[Portfolio](https://www.figma.com/proto/LoWLacffGNWbPrk5pyoMpT/Portfolio(Arthi)?node-id=28-587&node-type=frame&t=uZDYHpiq7CEyeV9w-0&scaling=scale-down&content-scaling=fixed&page-id=26%3A22&starting-point-node-id=28%3A587)
+## [👀 Portfolio](https://www.figma.com/proto/LoWLacffGNWbPrk5pyoMpT/Portfolio(Arthi)?node-id=28-587&node-type=frame&t=uZDYHpiq7CEyeV9w-0&scaling=scale-down&content-scaling=fixed&page-id=26%3A22&starting-point-node-id=28%3A587)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5JMtGNUX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100091959948750) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chillax_rt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/arthi-r-aa41b5191) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arthiaaru23) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@arthi_23)
