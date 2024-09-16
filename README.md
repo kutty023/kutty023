@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on Novelist<br>👯 I’m looking to collaborate on open source projects w.r.t cybersecurity<br>🤝 I’m looking for help with in-depth study of cyber security<br>🌱 I’m currently learning Full stack<br>💬 Ask me about cybersecurity, react, python, c++<br>📫 How to reach me arthiOWR2024@gmail.com
 
-## [📄 Resume](https://drive.google.com/file/d/1SNMLokWmm8MpXeU39AJL86mqya3O-LbJ/view)
+## [📄 Resume](https://drive.google.com/file/d/1YR5YfyCnBZ56baiI4Y2v6MVu5qEKK01B/view)
 
 ## [👀 Portfolio](https://www.figma.com/proto/LoWLacffGNWbPrk5pyoMpT/Portfolio(Arthi)?node-id=28-587&node-type=frame&t=uZDYHpiq7CEyeV9w-0&scaling=scale-down&content-scaling=fixed&page-id=26%3A22&starting-point-node-id=28%3A587)
 
